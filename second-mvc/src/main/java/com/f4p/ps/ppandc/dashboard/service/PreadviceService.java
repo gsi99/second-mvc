@@ -3,6 +3,9 @@ package com.f4p.ps.ppandc.dashboard.service;
 import java.util.HashMap;
 import java.util.Map;
 
+import org.springframework.stereotype.Component;
+
+@Component
 public class PreadviceService {
 
 	public Object getPreadviceAnalytics() {

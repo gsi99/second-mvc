@@ -36,6 +36,7 @@ public class HomeControllerTest {
 	@Test
 	public void testShowPreadviceDetails() {
 		PreadviceService pSvce = mock(PreadviceService.class);
+		// PreadviceService pSvce = new PreadviceService();
 		Map<String, Object> analytics = new HashMap<String, Object>();
 		analytics.put("postcode", "{postcode=EX12VW, value=10}");
 		
