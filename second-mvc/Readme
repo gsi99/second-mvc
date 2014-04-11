@@ -1,6 +1,8 @@
 http://docs.spring.io/docs/Spring-MVC-step-by-step/part1.html#step1.1
 
-
-
 http://localhost:8080/second-mvc/index.jsp
+
+
+Add option to main screen to open postcode display to show:
+* Table of Postcodes and numbers seen.
 

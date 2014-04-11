@@ -11,7 +11,7 @@
 		<title>Dashboard</title>
 	</head> 
 	<body>
-		<c:url value="/showMessage.jsp" var="messageUrl" />
+		<c:url value="/view/showMessage.jsp" var="messageUrl" />
 		<a href="${messageUrl}">Click to enter</a>
 	</body>
 </html>
