@@ -90,6 +90,12 @@
 			<version>${hibernate.version}</version>
 		</dependency>
 
+		<!-- JSON libraries -->
+		<dependency>
+			<groupId>com.google.code.gson</groupId>
+			<artifactId>gson</artifactId>
+			<version>1.7.1</version>
+		</dependency>
 
 		<!-- Test Artifacts -->
 		<dependency>

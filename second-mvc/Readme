@@ -2,7 +2,17 @@ http://docs.spring.io/docs/Spring-MVC-step-by-step/part1.html#step1.1
 
 http://localhost:8080/second-mvc/index.jsp
 
+http://localhost:8080/second-mvc/preadvice.htm
+
+http://localhost:8080/second-mvc/summary.htm
+
 
 Add option to main screen to open postcode display to show:
 * Table of Postcodes and numbers seen.
 
+
+Look at bringing bootstrap in and building some more elegant tabular display of the summary data.
+
+Added bootstrap. Need to change initial pages to use bootstrap files.
+	http://getbootstrap.com/getting-started/
+	

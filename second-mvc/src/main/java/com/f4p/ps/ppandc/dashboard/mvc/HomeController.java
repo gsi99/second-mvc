@@ -23,7 +23,7 @@ public class HomeController {
 		this.preadviceSvce = preadviceService;
 	}
 	
-	@RequestMapping({"/", "/preadvice"})
+	@RequestMapping("/preadvice")
 	public String showPreadviceDetails(Map<String, Object> model) {
 		
 		model.put("analytics", preadviceSvce.getPreadviceAnalytics());
