@@ -14,7 +14,10 @@
 	</head> 
 	<body>
 		<c:url value="/summary.htm" var="messageUrl" />
-		<a href="${messageUrl}">Click to enter</a>
+		<a href="${messageUrl}">Click to enter summary.jsp</a>
+		
+		<c:url value="/secondSummary.htm" var="messageUrl" />
+		<a href="${messageUrl}">Click to enter showSummary.jsp</a>
 
 	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 	<script
